@@ -108,7 +108,7 @@ function decode_file_with_name_stegcloak(stego, encryption, hmac, password) {
     console.log("File saved: " + file_name);
 }
 
-//susage snippets
+//usage snippets
 
 //Unicode_steganography
 /*
