@@ -37,7 +37,7 @@ d[k>>>24]^e[n>>>16&255]^j[g>>>8&255]^l[h&255]^c[p++],n=d[n>>>24]^e[g>>>16&255]^j
 
 
 
-/*the following is adapted code of Snow10 under GLP 3.0 License
+/*the following is adapted code of Snow10 under GPL 3.0 License
     title: Snow10
     author: Kevin Froman
     avaible at: https://github.com/beardog108/snow10
